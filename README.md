@@ -109,7 +109,8 @@ endmodule
 
 ## Truth Table
 
-<img width="349" height="264" alt="image" src="https://github.com/user-attachments/assets/d05e6f9d-ff68-466e-9eb8-52e22fa1b961" />
+<img width="421" height="381" alt="Screenshot 2026-11-12 080520" src="https://github.com/user-attachments/assets/856bd36e-aca9-4cca-95ed-a1aca42c88cb" />
+
 
 ## Simulation Procedure
 
@@ -165,7 +166,10 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
-<img width="595" height="369" alt="image" src="https://github.com/user-attachments/assets/38290e4d-a813-4e0c-b891-68044c90623b" />
+
+<img width="1527" height="786" alt="Screenshot 2026-11-12 080747" src="https://github.com/user-attachments/assets/ed7316ab-aad4-48a3-bf66-ee22573aa87d" />
+<img width="1535" height="815" alt="Screenshot 2026-11-12 080913" src="https://github.com/user-attachments/assets/ffafae67-8b86-4464-a838-eb7ae14047c3" />
+
 
 ## Viva-Voce Questions
 
